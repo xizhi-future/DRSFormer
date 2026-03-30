@@ -1,7 +1,7 @@
 # DRSFormer
 ## Datasets
 
-All datasets supporting this study are publicly available at [[huggingface]](https://huggingface.co/datasets/thuml/Time-Series-Library]). These datasets should be placed in the `dataset` folder.
+All datasets supporting this study are publicly available at [[huggingface]](https://huggingface.co/datasets/thuml/Time-Series-Library). These datasets should be placed in the `dataset` folder.
 
 ## Usage
 
